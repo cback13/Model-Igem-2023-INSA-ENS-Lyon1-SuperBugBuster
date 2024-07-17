@@ -1,7 +1,7 @@
 # Model-Igem-2023-INSA-ENS-Lyon1-SuperBugBuster
 You'll find here the codes used for the 2 types of simulations carried out as part of our Model for the iGEM 2023 competition, team INSA ENS Lyon1.  The IBM code corresponds to individual-centered modeling. The Model code corresponds to simulations based on our main model: the autonomous differential equation model.
 
-# Packages required :
+## Packages required :
 
 - numpy 1.24.4
 - matplotlib 3.7.3
@@ -10,7 +10,7 @@ You'll find here the codes used for the 2 types of simulations carried out as pa
 - tqdm 4.66.1
 
 
-# Modifications to certain parameters for simulations.
+## Modifications to certain parameters for simulations.
 Certain parameters can be modified to run simulations with different initial conditions:
 For Model.py :
 
@@ -27,7 +27,7 @@ For IBM.py :
 
 The correspondence between the names of the different variables used and their meaning can be found on the Model page of our wiki.
 
-# Colors used for the color blind model
+## Colors used for the color blind model
 - BLUE = (86, 180, 233)
 - VERMILLON = (213, 94, 0)
 - GREEN = (0, 158, 115)
